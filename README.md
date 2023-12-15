@@ -20,8 +20,5 @@ The images below contains:
 2. Ground truth 
 3. Predicted mask
 
-| ![](results/3.png) |
-| :--: |
-| ![](results/6.png) |
-| ![](results/11.png) |
-| ![](results/21.png) |
+# Model File Link:
+https://drive.google.com/file/d/1BnpRKVTkHfPIuTvAbu06pknIjw0inJqi/view?usp=sharing
