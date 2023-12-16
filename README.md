@@ -4,8 +4,12 @@
 This repository contains the code for the brain tumor segmentation using UNET architecture in TensorFlow 2.0 framework.
 
 # Overview
+- Demo
 - Architecture
 - Results
+
+# Demo 
+![Brain_Tumour_GIF](Brain_Tumour_GIF.gif)
 
 # Architecture
 The block diagram of the UNET architecture taken from the original paper.
